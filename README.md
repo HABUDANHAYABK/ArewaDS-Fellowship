@@ -12,7 +12,7 @@ Special appreciations go to my mentors
   3. Dr Idris and others
 ***
 
-**MY PLAN FOR THIS FELLOWSHIP*
+**MY PLAN FOR THIS FELLOWSHIP**
 
 _I am a 2024 overall graduating student of the faculty of engineering, Kano University of Science and Technology Wudil, Nigeria, having deep interest in exploring Artificial intelligence and machine learning models to analyse data and make some predictions. It is true that this world is facing disasters like; flooding, drought, extreme rise in temperature and unpredictable precipation because of climate change. Carbon emitted from industries contributes significantly, recent studies show that about 5% of the carbon emitted come from cement industry. My aim is to replace the use of cement in concrete with sustainable alternative and analyse the result using AI and machine learning models.This is the perfect opportunity for me to learn and start to explore them_
 
