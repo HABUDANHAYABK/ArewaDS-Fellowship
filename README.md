@@ -12,11 +12,11 @@ _I can’t thank you enough for this amazing opportunity. Your session has been 
 1. Shamsudden Hussain
 2. Dr. Falalu
 3. Dr. Idris
-And many others who have guided and encouraged me.
+And many others who are guiding and encouraging us.
 
 ***
 
-**MY PLAN FOR THIS FELLOWSHIP**
+
 **My plan for this fellowship**
 
 _As the 2024 overall best graduating student from the Faculty of Engineering at Kano University of Science and Technology, Wudil, I have a deep interest in exploring artificial intelligence (AI) and machine learning (ML) to analyze data and make impactful predictions._
